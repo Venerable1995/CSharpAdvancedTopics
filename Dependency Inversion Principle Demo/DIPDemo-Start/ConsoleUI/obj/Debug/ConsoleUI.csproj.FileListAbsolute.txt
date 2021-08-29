@@ -8,3 +8,13 @@ C:\Users\Sa3eed\Downloads\Dependency Inversion Principle Demo\DIPDemo-Start\Cons
 C:\Users\Sa3eed\Downloads\Dependency Inversion Principle Demo\DIPDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
 C:\Users\Sa3eed\Downloads\Dependency Inversion Principle Demo\DIPDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.exe
 C:\Users\Sa3eed\Downloads\Dependency Inversion Principle Demo\DIPDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Sa3eed\Documents\GitHub\CSharpAdvancedTopics\Dependency Inversion Principle Demo\DIPDemo-Start\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Sa3eed\Documents\GitHub\CSharpAdvancedTopics\Dependency Inversion Principle Demo\DIPDemo-Start\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Sa3eed\Documents\GitHub\CSharpAdvancedTopics\Dependency Inversion Principle Demo\DIPDemo-Start\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Sa3eed\Documents\GitHub\CSharpAdvancedTopics\Dependency Inversion Principle Demo\DIPDemo-Start\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\Sa3eed\Documents\GitHub\CSharpAdvancedTopics\Dependency Inversion Principle Demo\DIPDemo-Start\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\Sa3eed\Documents\GitHub\CSharpAdvancedTopics\Dependency Inversion Principle Demo\DIPDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Sa3eed\Documents\GitHub\CSharpAdvancedTopics\Dependency Inversion Principle Demo\DIPDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Sa3eed\Documents\GitHub\CSharpAdvancedTopics\Dependency Inversion Principle Demo\DIPDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Sa3eed\Documents\GitHub\CSharpAdvancedTopics\Dependency Inversion Principle Demo\DIPDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Sa3eed\Documents\GitHub\CSharpAdvancedTopics\Dependency Inversion Principle Demo\DIPDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.pdb
