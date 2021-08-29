@@ -1,0 +1,15 @@
+C:\Users\Sa3eed\Downloads\AsyncAwaitSourceCode\WPFUserInterface\bin\Debug\WPFUserInterface.exe.config
+C:\Users\Sa3eed\Downloads\AsyncAwaitSourceCode\WPFUserInterface\bin\Debug\WPFUserInterface.exe
+C:\Users\Sa3eed\Downloads\AsyncAwaitSourceCode\WPFUserInterface\bin\Debug\WPFUserInterface.pdb
+C:\Users\Sa3eed\Downloads\AsyncAwaitSourceCode\WPFUserInterface\obj\Debug\WPFUserInterface.csproj.AssemblyReference.cache
+C:\Users\Sa3eed\Downloads\AsyncAwaitSourceCode\WPFUserInterface\obj\Debug\MainWindow.g.cs
+C:\Users\Sa3eed\Downloads\AsyncAwaitSourceCode\WPFUserInterface\obj\Debug\App.g.cs
+C:\Users\Sa3eed\Downloads\AsyncAwaitSourceCode\WPFUserInterface\obj\Debug\WPFUserInterface_MarkupCompile.cache
+C:\Users\Sa3eed\Downloads\AsyncAwaitSourceCode\WPFUserInterface\obj\Debug\WPFUserInterface_MarkupCompile.lref
+C:\Users\Sa3eed\Downloads\AsyncAwaitSourceCode\WPFUserInterface\obj\Debug\MainWindow.baml
+C:\Users\Sa3eed\Downloads\AsyncAwaitSourceCode\WPFUserInterface\obj\Debug\WPFUserInterface.g.resources
+C:\Users\Sa3eed\Downloads\AsyncAwaitSourceCode\WPFUserInterface\obj\Debug\WPFUserInterface.Properties.Resources.resources
+C:\Users\Sa3eed\Downloads\AsyncAwaitSourceCode\WPFUserInterface\obj\Debug\WPFUserInterface.csproj.GenerateResource.cache
+C:\Users\Sa3eed\Downloads\AsyncAwaitSourceCode\WPFUserInterface\obj\Debug\WPFUserInterface.csproj.CoreCompileInputs.cache
+C:\Users\Sa3eed\Downloads\AsyncAwaitSourceCode\WPFUserInterface\obj\Debug\WPFUserInterface.exe
+C:\Users\Sa3eed\Downloads\AsyncAwaitSourceCode\WPFUserInterface\obj\Debug\WPFUserInterface.pdb

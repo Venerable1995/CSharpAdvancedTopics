@@ -1,0 +1,10 @@
+C:\Users\Sa3eed\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Sa3eed\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Sa3eed\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Sa3eed\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\ConsoleUI\bin\Debug\OCPLibrary.dll
+C:\Users\Sa3eed\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\ConsoleUI\bin\Debug\OCPLibrary.pdb
+C:\Users\Sa3eed\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Sa3eed\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Sa3eed\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Sa3eed\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Sa3eed\Downloads\OpenClosedPrincipleDemo\OCPDemoStart\ConsoleUI\obj\Debug\ConsoleUI.pdb

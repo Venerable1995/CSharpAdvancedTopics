@@ -1,0 +1,14 @@
+C:\Users\Sa3eed\Downloads\CSharpEventsDemo\EventsDemo_Start\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\Sa3eed\Downloads\CSharpEventsDemo\EventsDemo_Start\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\Sa3eed\Downloads\CSharpEventsDemo\EventsDemo_Start\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\Sa3eed\Downloads\CSharpEventsDemo\EventsDemo_Start\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\Sa3eed\Downloads\CSharpEventsDemo\EventsDemo_Start\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\Sa3eed\Downloads\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.csproj.AssemblyReference.cache
+C:\Users\Sa3eed\Downloads\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\Sa3eed\Downloads\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\Sa3eed\Downloads\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.Transactions.resources
+C:\Users\Sa3eed\Downloads\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\Sa3eed\Downloads\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Sa3eed\Downloads\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\Sa3eed\Downloads\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\Sa3eed\Downloads\CSharpEventsDemo\EventsDemo_Start\WinFormUI\obj\Debug\WinFormUI.pdb

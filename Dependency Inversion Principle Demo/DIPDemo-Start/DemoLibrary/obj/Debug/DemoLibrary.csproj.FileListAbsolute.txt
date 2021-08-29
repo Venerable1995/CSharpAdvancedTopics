@@ -1,0 +1,6 @@
+C:\Users\Sa3eed\Downloads\Dependency Inversion Principle Demo\DIPDemo-Start\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Sa3eed\Downloads\Dependency Inversion Principle Demo\DIPDemo-Start\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Sa3eed\Downloads\Dependency Inversion Principle Demo\DIPDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\Sa3eed\Downloads\Dependency Inversion Principle Demo\DIPDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sa3eed\Downloads\Dependency Inversion Principle Demo\DIPDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Sa3eed\Downloads\Dependency Inversion Principle Demo\DIPDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.pdb
